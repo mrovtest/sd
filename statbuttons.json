@@ -1,0 +1,117 @@
+[
+  {
+    "icon": "diamond.png",
+    "name": "Diamenty",
+    "objective": "ore_diamond"
+  },
+  {
+    "icon": "emerald.png",
+    "name": "Szmaragdy",
+    "objective": "ore_emerald"
+  },
+  {
+    "icon": "gold.png",
+    "name": "Złoto",
+    "objective": "ore_gold"
+  },
+  {
+    "icon": "iron.png",
+    "name": "Żelazo",
+    "objective": "ore_iron"
+  },
+  {
+    "icon": "coal.png",
+    "name": "Węgiel",
+    "objective": "ore_coal"
+  },
+  {
+    "icon": "redstone.png",
+    "name": "Redstone",
+    "objective": "ore_redstone"
+  },
+  {
+    "icon": "lapis.png",
+    "name": "Lapis",
+    "objective": "ore_lapis"
+  },
+  {
+    "icon": "quartz.png",
+    "name": "Kwarc",
+    "objective": "ore_quartz"
+  },
+  {
+    "icon": "copper.png",
+    "name": "Miedź",
+    "objective": "ore_copper"
+  },
+  {
+    "icon": "tin.png",
+    "name": "Cyna",
+    "objective": "ore_tin"
+  },
+  {
+    "icon": "lead.png",
+    "name": "Ołów",
+    "objective": "ore_lead"
+  },
+  {
+    "icon": "silver.png",
+    "name": "Srebro",
+    "objective": "ore_silver"
+  },
+  {
+    "icon": "aluminum.png",
+    "name": "Aluminium",
+    "objective": "ore_aluminum"
+  },
+  {
+    "icon": "nickel.png",
+    "name": "Nikiel",
+    "objective": "ore_nickel"
+  },
+  {
+    "icon": "steel.png",
+    "name": "Stal",
+    "objective": "ore_steel"
+  },
+  {
+    "icon": "netherite.png",
+    "name": "Netherite",
+    "objective": "ore_netherite"
+  },
+  {
+    "icon": "netherdiamond.png",
+    "name": "Nether Diamond",
+    "objective": "ore_netherdiam"
+  },
+  {
+    "icon": "nethergold.png",
+    "name": "Nether Gold",
+    "objective": "ore_nethergold"
+  },
+  {
+    "icon": "netheriron.png",
+    "name": "Nether Iron",
+    "objective": "ore_netheriron"
+  },
+  {
+    "icon": "stone.png",
+    "name": "Kamień",
+    "objective": "mined_stone"
+  },
+  {
+    "icon": "netherrack.png",
+    "name": "Netherrack",
+    "objective": "mined_netherrack"
+  },
+  {
+    "icon": "sand.png",
+    "name": "Piasek",
+    "objective": "mined_sand"
+  },
+  {
+    "icon": "dirt.png",
+    "name": "Ziemia",
+    "objective": "mined_dirt"
+  }
+]
