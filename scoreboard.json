@@ -1,0 +1,581 @@
+{
+  "objectives": [
+    {
+      "name": "ore_emerald",
+      "displayName": "ore_emerald",
+      "criteriaName": "stat.mineBlock.minecraft.emerald_ore",
+      "scores": {
+        "Tomo090": 6,
+        "andreymrov": 66,
+        "inhloli": 0
+      }
+    },
+    {
+      "name": "ore_steel",
+      "displayName": "ore_steel",
+      "criteriaName": "stat.mineBlock.unified.steel",
+      "scores": {
+        "Tomo090": 0,
+        "andreymrov": 4,
+        "inhloli": 1
+      }
+    },
+    {
+      "name": "mined_stone",
+      "displayName": "mined_stone",
+      "criteriaName": "stat.mineBlock.minecraft.stone",
+      "scores": {
+        "Tomo090": 9415,
+        "madzia": 664,
+        "andreymrov": 42451,
+        "inhloli": 3484
+      }
+    },
+    {
+      "name": "mined_log2",
+      "displayName": "mined_log2",
+      "criteriaName": "stat.mineBlock.minecraft.log2",
+      "scores": {
+        "Tomo090": 18,
+        "andreymrov": 32,
+        "inhloli": 109
+      }
+    },
+    {
+      "name": "ore_nickel",
+      "displayName": "ore_nickel",
+      "criteriaName": "stat.mineBlock.unified.nickel",
+      "scores": {
+        "Tomo090": 6,
+        "andreymrov": 19,
+        "inhloli": 11
+      }
+    },
+    {
+      "name": "death",
+      "displayName": "death",
+      "criteriaName": "deathCount",
+      "scores": {
+        "Tomo090": 25,
+        "andreymrov": 4,
+        "inhloli": 10
+      }
+    },
+    {
+      "name": "ore_silver",
+      "displayName": "ore_silver",
+      "criteriaName": "stat.mineBlock.unified.silver",
+      "scores": {
+        "Tomo090": 30,
+        "madzia": 3,
+        "andreymrov": 132,
+        "inhloli": 104
+      }
+    },
+    {
+      "name": "mined_log",
+      "displayName": "mined_log",
+      "criteriaName": "stat.mineBlock.minecraft.log",
+      "scores": {
+        "Tomo090": 1,
+        "andreymrov": 6,
+        "inhloli": 44
+      }
+    },
+    {
+      "name": "distanceSwim",
+      "displayName": "distanceSwim",
+      "criteriaName": "stat.swimOneCm",
+      "scores": {
+        "Tomo090": 110170,
+        "madzia": 7321,
+        "andreymrov": 167120,
+        "inhloli": 181244
+      }
+    },
+    {
+      "name": "distanceWalk",
+      "displayName": "distanceWalk",
+      "criteriaName": "stat.walkOneCm",
+      "scores": {
+        "Tomo090": 3333841,
+        "madzia": 283441,
+        "andreymrov": 5198456,
+        "inhloli": 5296090
+      }
+    },
+    {
+      "name": "mined_gravel",
+      "displayName": "mined_gravel",
+      "criteriaName": "stat.mineBlock.minecraft.gravel",
+      "scores": {
+        "Tomo090": 106,
+        "andreymrov": 1063,
+        "inhloli": 23
+      }
+    },
+    {
+      "name": "distanceCrouch",
+      "displayName": "distanceCrouch",
+      "criteriaName": "stat.crouchOneCm",
+      "scores": {
+        "Tomo090": 4880,
+        "madzia": 79,
+        "andreymrov": 496337,
+        "inhloli": 48502
+      }
+    },
+    {
+      "name": "ore_copper",
+      "displayName": "ore_copper",
+      "criteriaName": "stat.mineBlock.unified.copper",
+      "scores": {
+        "Tomo090": 59,
+        "madzia": 1,
+        "andreymrov": 337,
+        "inhloli": 676
+      }
+    },
+    {
+      "name": "mined_sand",
+      "displayName": "mined_sand",
+      "criteriaName": "stat.mineBlock.minecraft.sand",
+      "scores": {
+        "Tomo090": 13,
+        "andreymrov": 279,
+        "inhloli": 129
+      }
+    },
+    {
+      "name": "ore_netherite",
+      "displayName": "ore_netherite",
+      "criteriaName": "stat.mineBlock.netherite.ore",
+      "scores": {
+        "Tomo090": 71,
+        "andreymrov": 57,
+        "inhloli": 0
+      }
+    },
+    {
+      "name": "ore_quartz",
+      "displayName": "ore_quartz",
+      "criteriaName": "stat.mineBlock.minecraft.quartz_ore",
+      "scores": {
+        "Tomo090": 792,
+        "andreymrov": 931,
+        "inhloli": 33
+      }
+    },
+    {
+      "name": "ore_nethergold",
+      "displayName": "ore_nethergold",
+      "criteriaName": "stat.mineBlock.netherore.gold",
+      "scores": {
+        "Tomo090": 40,
+        "andreymrov": 403,
+        "inhloli": 145
+      }
+    },
+    {
+      "name": "distanceSprint",
+      "displayName": "distanceSprint",
+      "criteriaName": "stat.sprintOneCm",
+      "scores": {
+        "Tomo090": 1017990,
+        "madzia": 61550,
+        "andreymrov": 6308911,
+        "inhloli": 2413144
+      }
+    },
+    {
+      "name": "villagerTrades",
+      "displayName": "villagerTrades",
+      "criteriaName": "stat.tradedWithVillager",
+      "scores": {
+        "Tomo090": 0,
+        "andreymrov": 0,
+        "inhloli": 0
+      }
+    },
+    {
+      "name": "ore_cobalt",
+      "displayName": "ore_cobalt",
+      "criteriaName": "stat.mineBlock.unified.cobalt",
+      "scores": {
+        "Tomo090": 16,
+        "andreymrov": 8,
+        "inhloli": 51
+      }
+    },
+    {
+      "name": "ore_netherdiam",
+      "displayName": "ore_netherdiam",
+      "criteriaName": "stat.mineBlock.netherore.diamond",
+      "scores": {
+        "Tomo090": 74,
+        "andreymrov": 86,
+        "inhloli": 14
+      }
+    },
+    {
+      "name": "ore_diamond",
+      "displayName": "ore_diamond",
+      "criteriaName": "stat.mineBlock.minecraft.diamond_ore",
+      "scores": {
+        "Tomo090": 41,
+        "madzia": 7,
+        "andreymrov": 96,
+        "inhloli": 74
+      }
+    },
+    {
+      "name": "ore_tin",
+      "displayName": "ore_tin",
+      "criteriaName": "stat.mineBlock.unified.tin",
+      "scores": {
+        "Tomo090": 53,
+        "andreymrov": 564,
+        "inhloli": 126
+      }
+    },
+    {
+      "name": "level",
+      "displayName": "level",
+      "criteriaName": "level",
+      "scores": {
+        "Tomo090": 24,
+        "madzia": 20,
+        "andreymrov": 55,
+        "inhloli": 37
+      }
+    },
+    {
+      "name": "health",
+      "displayName": "health",
+      "criteriaName": "health",
+      "scores": {
+        "Tomo090": 19,
+        "madzia": 20,
+        "andreymrov": 20,
+        "inhloli": 20
+      }
+    },
+    {
+      "name": "ore_iron",
+      "displayName": "ore_iron",
+      "criteriaName": "stat.mineBlock.minecraft.iron_ore",
+      "scores": {
+        "Tomo090": 307,
+        "madzia": 16,
+        "andreymrov": 1606,
+        "inhloli": 839
+      }
+    },
+    {
+      "name": "ore_lapis",
+      "displayName": "ore_lapis",
+      "criteriaName": "stat.mineBlock.minecraft.lapis_ore",
+      "scores": {
+        "Tomo090": 11,
+        "madzia": 3,
+        "andreymrov": 83,
+        "inhloli": 107
+      }
+    },
+    {
+      "name": "mined_dirt",
+      "displayName": "mined_dirt",
+      "criteriaName": "stat.mineBlock.minecraft.dirt",
+      "scores": {
+        "Tomo090": 20,
+        "andreymrov": 682,
+        "inhloli": 1458
+      }
+    },
+    {
+      "name": "ore_gold",
+      "displayName": "ore_gold",
+      "criteriaName": "stat.mineBlock.minecraft.gold_ore",
+      "scores": {
+        "Tomo090": 79,
+        "madzia": 17,
+        "andreymrov": 427,
+        "inhloli": 334
+      }
+    },
+    {
+      "name": "timePlayed",
+      "displayName": "timePlayed",
+      "criteriaName": "stat.playOneMinute",
+      "scores": {
+        "Tomo090": 1089141,
+        "madzia": 104644,
+        "andreymrov": 2662928,
+        "inhloli": 2206740
+      }
+    },
+    {
+      "name": "distanceFly",
+      "displayName": "distanceFly",
+      "criteriaName": "stat.flyOneCm",
+      "scores": {
+        "Tomo090": 11503212,
+        "madzia": 334256,
+        "andreymrov": 11268298,
+        "inhloli": 7837186
+      }
+    },
+    {
+      "name": "mined_netherrack",
+      "displayName": "mined_netherrack",
+      "criteriaName": "stat.mineBlock.minecraft.netherrack",
+      "scores": {
+        "Tomo090": 22565,
+        "andreymrov": 27107,
+        "inhloli": 1602
+      }
+    },
+    {
+      "name": "ore_aluminum",
+      "displayName": "ore_aluminum",
+      "criteriaName": "stat.mineBlock.unified.aluminum",
+      "scores": {
+        "Tomo090": 140,
+        "madzia": 12,
+        "andreymrov": 803,
+        "inhloli": 199
+      }
+    },
+    {
+      "name": "ore_netheriron",
+      "displayName": "ore_netheriron",
+      "criteriaName": "stat.mineBlock.netherore.iron",
+      "scores": {
+        "Tomo090": 15,
+        "andreymrov": 123,
+        "inhloli": 20
+      }
+    },
+    {
+      "name": "ore_lead",
+      "displayName": "ore_lead",
+      "criteriaName": "stat.mineBlock.unified.lead",
+      "scores": {
+        "Tomo090": 69,
+        "madzia": 4,
+        "andreymrov": 333,
+        "inhloli": 250
+      }
+    },
+    {
+      "name": "ore_ardite",
+      "displayName": "ore_ardite",
+      "criteriaName": "stat.mineBlock.unified.ardite",
+      "scores": {
+        "Tomo090": 0,
+        "andreymrov": 2,
+        "inhloli": 0
+      }
+    },
+    {
+      "name": "xp",
+      "displayName": "xp",
+      "criteriaName": "xp",
+      "scores": {
+        "Tomo090": 829,
+        "madzia": 588,
+        "andreymrov": 6992,
+        "inhloli": 2370
+      }
+    },
+    {
+      "name": "ore_redstone",
+      "displayName": "ore_redstone",
+      "criteriaName": "stat.mineBlock.minecraft.redstone_ore",
+      "scores": {
+        "Tomo090": 45,
+        "madzia": 8,
+        "andreymrov": 691,
+        "inhloli": 225
+      }
+    },
+    {
+      "name": "distanceTotal",
+      "displayName": "distanceTotal",
+      "criteriaName": "dummy",
+      "scores": {}
+    },
+    {
+      "name": "mined_glowstone",
+      "displayName": "mined_glowstone",
+      "criteriaName": "stat.mineBlock.minecraft.glowstone",
+      "scores": {
+        "Tomo090": 0,
+        "andreymrov": 14,
+        "inhloli": 205
+      }
+    },
+    {
+      "name": "ore_coal",
+      "displayName": "ore_coal",
+      "criteriaName": "stat.mineBlock.minecraft.coal_ore",
+      "scores": {
+        "Tomo090": 322,
+        "madzia": 2,
+        "andreymrov": 2384,
+        "inhloli": 760
+      }
+    }
+  ],
+  "players": {
+    "Tomo090": {
+      "ore_diamond": 41,
+      "mined_stone": 9415,
+      "ore_emerald": 6,
+      "ore_quartz": 792,
+      "mined_glowstone": 0,
+      "ore_coal": 322,
+      "ore_tin": 53,
+      "distanceFly": 11503212,
+      "ore_netheriron": 15,
+      "ore_aluminum": 140,
+      "ore_silver": 30,
+      "mined_gravel": 106,
+      "mined_log2": 18,
+      "ore_iron": 307,
+      "ore_netherdiam": 74,
+      "ore_steel": 0,
+      "mined_log": 1,
+      "mined_netherrack": 22565,
+      "health": 19,
+      "ore_netherite": 71,
+      "timePlayed": 1089141,
+      "ore_redstone": 45,
+      "xp": 829,
+      "ore_cobalt": 16,
+      "villagerTrades": 0,
+      "ore_lead": 69,
+      "ore_gold": 79,
+      "ore_ardite": 0,
+      "mined_sand": 13,
+      "distanceWalk": 3333841,
+      "level": 24,
+      "ore_nickel": 6,
+      "distanceCrouch": 4880,
+      "ore_copper": 59,
+      "death": 25,
+      "ore_nethergold": 40,
+      "ore_lapis": 11,
+      "distanceSwim": 110170,
+      "distanceSprint": 1017990,
+      "mined_dirt": 20
+    },
+    "andreymrov": {
+      "ore_diamond": 96,
+      "mined_stone": 42451,
+      "ore_emerald": 66,
+      "ore_quartz": 931,
+      "mined_glowstone": 14,
+      "ore_coal": 2384,
+      "ore_tin": 564,
+      "distanceFly": 11268298,
+      "ore_netheriron": 123,
+      "ore_aluminum": 803,
+      "ore_silver": 132,
+      "mined_gravel": 1063,
+      "mined_log2": 32,
+      "ore_iron": 1606,
+      "ore_netherdiam": 86,
+      "ore_steel": 4,
+      "mined_log": 6,
+      "mined_netherrack": 27107,
+      "health": 20,
+      "ore_netherite": 57,
+      "timePlayed": 2662928,
+      "ore_redstone": 691,
+      "xp": 6992,
+      "ore_cobalt": 8,
+      "villagerTrades": 0,
+      "ore_lead": 333,
+      "ore_gold": 427,
+      "ore_ardite": 2,
+      "mined_sand": 279,
+      "distanceWalk": 5198456,
+      "level": 55,
+      "ore_nickel": 19,
+      "distanceCrouch": 496337,
+      "ore_copper": 337,
+      "death": 4,
+      "ore_nethergold": 403,
+      "ore_lapis": 83,
+      "distanceSwim": 167120,
+      "distanceSprint": 6308911,
+      "mined_dirt": 682
+    },
+    "inhloli": {
+      "ore_diamond": 74,
+      "mined_stone": 3484,
+      "ore_emerald": 0,
+      "ore_quartz": 33,
+      "mined_glowstone": 205,
+      "ore_coal": 760,
+      "ore_tin": 126,
+      "distanceFly": 7837186,
+      "ore_netheriron": 20,
+      "ore_aluminum": 199,
+      "ore_silver": 104,
+      "mined_gravel": 23,
+      "mined_log2": 109,
+      "ore_iron": 839,
+      "ore_netherdiam": 14,
+      "ore_steel": 1,
+      "mined_log": 44,
+      "mined_netherrack": 1602,
+      "health": 20,
+      "ore_netherite": 0,
+      "timePlayed": 2206740,
+      "ore_redstone": 225,
+      "xp": 2370,
+      "ore_cobalt": 51,
+      "villagerTrades": 0,
+      "ore_lead": 250,
+      "ore_gold": 334,
+      "ore_ardite": 0,
+      "mined_sand": 129,
+      "distanceWalk": 5296090,
+      "level": 37,
+      "ore_nickel": 11,
+      "distanceCrouch": 48502,
+      "ore_copper": 676,
+      "death": 10,
+      "ore_nethergold": 145,
+      "ore_lapis": 107,
+      "distanceSwim": 181244,
+      "distanceSprint": 2413144,
+      "mined_dirt": 1458
+    },
+    "madzia": {
+      "ore_diamond": 7,
+      "mined_stone": 664,
+      "ore_redstone": 8,
+      "ore_coal": 2,
+      "xp": 588,
+      "distanceFly": 334256,
+      "ore_lead": 4,
+      "ore_gold": 17,
+      "distanceWalk": 283441,
+      "level": 20,
+      "ore_aluminum": 12,
+      "ore_silver": 3,
+      "ore_iron": 16,
+      "distanceCrouch": 79,
+      "ore_copper": 1,
+      "ore_lapis": 3,
+      "health": 20,
+      "distanceSwim": 7321,
+      "distanceSprint": 61550,
+      "timePlayed": 104644
+    }
+  },
+  "teams": []
+}
